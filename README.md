@@ -1,2 +1,2 @@
-# web-project
+# web project
 my website code
